@@ -1,25 +1,49 @@
-# 🚀 From Web Development to Data Analytics  
+# 🚀 From Web Development to Data Analytics
 
-👋 Hi there! I'm Oliver, an **experienced Senior Full Stack Developer** transitioning into **Data Analytics** with the goal of becoming a **Data Scientist**. After years of building dynamic, data-driven web applications, I’m now leveraging my technical expertise to analyze, visualize, and derive insights from data.  
+👋 Hi, I’m Oliver, a **Microsoft-certified Data Analyst (PL-300)** with 7+ years of experience in **full-stack web development**, now transitioning into **data analytics and data science**.
 
-## 🏗️ **Background in Web Development**  
-With **7+ years** of experience in **full-stack web development**, I have a strong foundation in:  
-- **JavaScript (React, Node.js), PHP, HTML/CSS**  
-- **WordPress Development** (Custom themes, plugins, API integrations)  
-- **Google Analytics 4 (GA4), Google Tag Manager (GTM), VWO (A/B Testing)**  
+After years of building dynamic, data-driven web applications, I’m now focused on **uncovering insights, building dashboards, and solving real-world problems with data**.
 
-🔎 My background in **tracking user behavior, optimizing web performance, and handling large datasets** gives me an edge in **data analysis** and **business intelligence**.  
+---
 
-## 📊 **What This Repository Showcases**  
-This repository contains **hands-on Data Analytics projects** demonstrating my skills in:  
+## 🧠 Background & Technical Foundation
 
-- 📈 **SQL** (Data querying, joins, window functions, CTEs)  
-- 📊 **Excel** (Pivot tables, Power Query, dashboards)  
-- 🔷 **Power BI / Tableau** (Interactive data visualizations)  
-- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- 💡 **Modern Data Science & Programming Frameworks**  
+Over the past several years, I’ve worked in fast-paced agencies and e-commerce startups, developing custom platforms and using analytics tools to inform product and UX decisions.
 
-## 🎯 **Goal: Transitioning to Data Science**  
-I’m actively working on projects that **combine my web development experience with data analytics**, making me a **versatile and business-savvy data professional**.  
+**Core skills include:**
+- 🛠️ **JavaScript (React, Node.js), PHP, HTML/CSS**
+- 🧩 **Power BI, SQL, Excel, Python (Pandas, Matplotlib)**
+- 📊 **GA4, VWO (A/B Testing), Microsoft Clarity, GTM**
 
-📌 **Follow my journey as I build out my portfolio!** 🚀  
+This hands-on experience with **user behavior tracking, performance optimization**, and **data transformation** gives me a unique edge in **business intelligence and analytics**.
+
+---
+
+## 📁 Projects You'll Find Here
+
+This repository showcases hands-on projects that reflect my growing skill set in:
+
+- 🟢 **Power BI**: Dashboards, data modeling, DAX, storytelling  
+- 📘 **SQL**: Queries, joins, subqueries, window functions  
+- 📈 **Excel**: Pivot tables, data cleaning, business metrics  
+- 🐍 **Python**: Pandas, NumPy, Seaborn, visual exploration  
+- 🔄 **ETL-style workflows** using a mix of dev and data tools
+
+You can find detailed writeups and links for each project inside their respective folders.
+
+---
+
+## 🎯 Career Goal
+
+I’m combining my development background with a growing data skill set to pursue roles in:
+
+- **Data Analysis**
+- **Business Intelligence**
+- **Data Science** (long-term goal)
+
+I’m looking to contribute to **data-driven teams** that value technical versatility and insight generation and I’m always adding new projects to this portfolio.
+
+---
+
+📌 **Let’s connect on [LinkedIn](https://www.linkedin.com/in/oliverstott/)** or explore the pinned projects below!
+
